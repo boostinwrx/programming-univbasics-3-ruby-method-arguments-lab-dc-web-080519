@@ -1,4 +1,5 @@
-
+name = 'Edmwin'
+language = 'Python'
 def introduction(name)
     "Hi, my name is #{name}."
 end
